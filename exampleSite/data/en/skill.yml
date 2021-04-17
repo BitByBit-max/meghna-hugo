@@ -1,26 +1,19 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
-      percent : 75%
+  enable: true
+  title: Our Progress
+  subtitle: Patience ! It takes time to develop an entire desktop app.
+  content: We are right on schedule for now. Here is an insider view on what we have
+    done so far.
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Database
+    percent: 60%
+  - name: Levels
+    percent: 70%
+  - name: Design
+    percent: 60%
+  - name: Compiler and test runs
+    percent: 75%
+  - name: Lectures
+    percent: 95%
