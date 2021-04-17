@@ -74,6 +74,7 @@ description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = false
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -110,6 +111,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
