@@ -5,7 +5,7 @@ team:
   team_member:
   - name: Elise Baturone
     image_webp: ''
-    image: team-E.jpg
+    image: images/team/team-E.jpg
     designation: co-Founder and digital manager
     content: Elise provides a link and method of control for the system’s hardware,
       she  ensures a seamless experience for you. She also played a consequent role
@@ -13,7 +13,7 @@ team:
       website.
     social: []
   - name: Elsa Keirouz
-    image_webp: images/team/team-2.webp
+    image_webp: ''
     image: images/team/team-2.jpg
     designation: co-Founder and designing manager
     content: She had to deal with all of the design, music and overall  aspects of
