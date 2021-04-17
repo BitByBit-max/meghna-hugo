@@ -1,12 +1,16 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: Learn About Computers Bit By Bit
+  content: Bit by Bit is the fairy godmother for all new Epita students panicking
+    over the seminary. Don’t worry, we’ll help you learn everything you need to know
+    about OCaml in order to feel confident. With a game-like design, you will code
+    many functions, fix bugs, and understand complexity as you unlock new levels.
+    Make sure you can slay the boss at the end of the map !
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Download Bit by Bit
+    link: "#pricing"
