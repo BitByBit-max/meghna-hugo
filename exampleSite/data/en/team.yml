@@ -21,7 +21,7 @@ team:
       enough, without being distracting. That is what Elsa is here for.
     social: []
   - name: Emile Preumont
-    image_webp: images/team/team-3.webp
+    image_webp: ''
     image: images/team/team-3.jpg
     designation: co-Founder and data manager
     content: Emile is the data manager. Like a personal librarian he is responsible
@@ -29,7 +29,7 @@ team:
       data which is a prominent part of this app. He also manage the users’ accounts.
     social: []
   - name: Barbora Plasovka
-    image_webp: images/team/team-4.webp
+    image_webp: ''
     image: images/team/team-4.jpg
     designation: " co-Founder and CEO"
     content: 'She is in charge of most of the back-end coding, such as the implementation
