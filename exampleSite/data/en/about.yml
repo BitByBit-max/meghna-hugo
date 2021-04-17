@@ -1,16 +1,20 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Have the resources
+    content: There is so much information on python or C# but what about poor old
+      OCaml ? Bit by Bit has got you covered. We give you everything you see in class
+      and more.
+  - icon: ti-cup
+    title: Progress Faster
+    content: By getting more practice in coding and testing.Everything will start
+      to fall into place in your head. You’ll be able to write any function your TD
+      asks of you in no time.
+  - icon: ti-thought
+    title: Think for yourself
+    content: Using Bit by Bit will help you understand the thought process of writting
+      your own function from A to Z. You finally won’t be paralyzed in front of an
+      empty page.
