@@ -5,7 +5,7 @@ skill:
   subtitle: Patience ! It takes time to develop an entire desktop app.
   content: We are right on schedule for now. Here is an insider view on what we have
     done so far.
-  image: images/about/company-growth.webp
+  image: ''
   skill_item:
   - name: Database
     percent: 60%
