@@ -12,7 +12,7 @@ pricing:
     - pdf document
     button:
       label: Download
-      link: "#https://docs.google.com/document/d/1EC6i_a9lcXZH6KcvPRXsJpuzMSfBx24NK-KW2ruKUEU/edit?usp=sharing"
+      link: https://docs.google.com/document/d/1EC6i_a9lcXZH6KcvPRXsJpuzMSfBx24NK-KW2ruKUEU/edit
   - name: Bit By Bit
     price: Free
     unit: ''
@@ -22,14 +22,4 @@ pricing:
     - " desktop application"
     button:
       label: Download
-      link: "#"
-  - name: Our            Library
-    price: ''
-    unit: ''
-    services:
-    - There is none yet
-    - 10 GB Bandwidth
-    - background music
-    button:
-      label: Signup
       link: "#"
