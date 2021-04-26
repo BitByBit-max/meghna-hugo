@@ -12,7 +12,7 @@ skill:
   - name: Levels
     percent: 70%
   - name: Design
-    percent: 60%
+    percent: 90%
   - name: Compiler and test runs
     percent: 75%
   - name: Lectures
