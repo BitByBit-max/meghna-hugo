@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Meghna"
+title = "Bit by Bit"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -72,7 +72,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "Screenshot_2021-02-15_at_21.10.40-removebg-preview.png"
+logo = "/images/screenshot_2021-02-15_at_21-10-40-removebg-preview.png"
 post_share = false
 social = []
 [params.cookies]
