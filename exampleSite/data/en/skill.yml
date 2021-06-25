@@ -10,7 +10,7 @@ skill:
   - name: Database
     percent: 100%
   - name: Levels
-    percent: 70%
+    percent: 100%
   - name: Design
     percent: 90%
   - name: Compiler and test runs
