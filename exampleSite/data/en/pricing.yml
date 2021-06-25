@@ -3,6 +3,12 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
+  - name: OCaml
+    price: ''
+    unit: ''
+    services: ''
+    button:
+      label: Download
   - name: Book of Specification
     price: ''
     unit: ''
