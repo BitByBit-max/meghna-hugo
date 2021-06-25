@@ -9,6 +9,7 @@ pricing:
     services: ''
     button:
       label: Download
+      link: https://gitlab.cri.epita.fr/prepa/algorithmique/s1_2025/s1-caml/-/tree/master/installation
   - name: Book of Specification
     price: ''
     unit: ''
