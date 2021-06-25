@@ -8,7 +8,7 @@ skill:
   image: ''
   skill_item:
   - name: Database
-    percent: 60%
+    percent: 100%
   - name: Levels
     percent: 70%
   - name: Design
