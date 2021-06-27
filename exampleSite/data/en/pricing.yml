@@ -23,7 +23,6 @@ pricing:
     unit: ''
     services:
     - Only supported by Windows
-    - " desktop application"
     button:
       label: Download
       link: https://drive.google.com/drive/folders/1K4iiNKcd_aBvy_ke5u0UFOY0qv8o4t9l?usp=sharing
