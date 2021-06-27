@@ -14,10 +14,7 @@ pricing:
   - name: Book of Specification
     price: ''
     unit: ''
-    services:
-    - " For the teachers"
-    - 10 GB Bandwidth
-    - pdf document
+    services: []
     button:
       label: Download
       link: https://docs.google.com/document/d/1EC6i_a9lcXZH6KcvPRXsJpuzMSfBx24NK-KW2ruKUEU/edit
@@ -25,8 +22,7 @@ pricing:
     price: Free
     unit: ''
     services:
-    - Supported by Windows
-    - 1 GB Storage
+    - Only supported by Windows
     - " desktop application"
     button:
       label: Download
