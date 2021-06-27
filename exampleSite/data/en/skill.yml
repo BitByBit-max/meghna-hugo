@@ -2,9 +2,9 @@
 skill:
   enable: true
   title: Our Progress
-  subtitle: Patience ! It takes time to develop an entire desktop app.
-  content: We are right on schedule for now. Here is an insider view on what we have
-    done so far.
+  subtitle: You have been patient enough ! Our desktop app is finally complete and
+    ready to download.
+  content: We are right on schedule. Here is an insider view on what we have done.
   image: ''
   skill_item:
   - name: Database
